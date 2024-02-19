@@ -1,0 +1,11 @@
+instructions for biball:
+when you hold down a key, you can see a number at the top-left. that number will be referred to x in explanation.
+for example, if the counter reached 123 before i let go of a key, x would be 123.
+
+when you hold down any of the arrow keys, the balls will be thrusted in the direction by x pixels.
+when you press space, it spawns 1 ball.
+when you hold enter, it spawns x balls.
+when you press R, it resets the simulation and show how many balls you got.
+when you press ESC, it quits the game and also shows how many balls you got.
+
+NOTE: creating balls is also an automatic process, just press nothing and every 50 bounces a new ball will be created
