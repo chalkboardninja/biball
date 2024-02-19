@@ -1,5 +1,7 @@
 # biball
 
+(Note, the video and colored text did not show up D:)
+
 BiBall is a game that tests the performance of your PC using balls!
 
 (Note: OBS Studio was lagging behind while recording 💀)
